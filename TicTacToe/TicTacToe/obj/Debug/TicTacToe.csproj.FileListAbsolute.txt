@@ -1,0 +1,22 @@
+C:\Users\emrez\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\emrez\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\emrez\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\emrez\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\emrez\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+C:\Users\emrez\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\emrez\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\emrez\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\emrez\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\emrez\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\emrez\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe.config
+C:\Users\emrez\Downloads\Korunacak Projeler\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\emrez\Downloads\Korunacak Projeler\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\emrez\Downloads\Korunacak Projeler\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\emrez\Downloads\Korunacak Projeler\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\emrez\Downloads\Korunacak Projeler\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe.config
+C:\Users\emrez\Downloads\Korunacak Projeler\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+C:\Users\emrez\Downloads\Korunacak Projeler\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\emrez\Downloads\Korunacak Projeler\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\emrez\Downloads\Korunacak Projeler\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\emrez\Downloads\Korunacak Projeler\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\emrez\Downloads\Korunacak Projeler\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
